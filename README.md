@@ -4,19 +4,8 @@ I'm a student studying data science and maths at the University of Western Austr
 
 - 🔭 I’m currently working on **[wadl](https://github.com/codersforcauses/wadl)**
 - 🌱 I’m currently learning **NuxtJS, Firebase, Hugo**
-- 😄 I'm currently playing **[Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)**
+- 😄 I'm currently playing **[Bloons TD 6](https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0)**
 - 💬 Ask me about **anything**
-
-### Tech Stack
-
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
-
-<br/>
 
 ### Github Stats
 
