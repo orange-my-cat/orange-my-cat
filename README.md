@@ -9,4 +9,4 @@ I'm a student studying data science and maths at the University of Western Austr
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=orange-my-cat&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+![](https://github-readme-stats.vercel.app/api?username=orange-my-cat&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
