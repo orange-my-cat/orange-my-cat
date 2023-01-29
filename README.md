@@ -1,6 +1,8 @@
 <h1 align=center> Hello! I'm Ivan.</h1>
 
-I'm a student studying data science and maths at the University of Western Australia. I'm learning how to code. I love exploring new technologies and using them to solve problems. I'm also the type of guy that spends hours coding to automate a 10 minute task. I also enjoy scientific programming because they challenge me more. I love the feeling of solving difficult problems.
+A driven, results-oriented student at UWA with a background in data science, mathematics, and statistics. I've also had experience in software and web development.
+
+If you know me, you would know that I love exploring new technologies and using them to solve problems. I'm also the type of guy that spends hours finding how to automate a 10 minute task. I also enjoy scientific programming because they allow me to combine my two favourite subjects, coding and maths. I just love the feeling of solving difficult problems.
 
 - 🔭 I’m currently working on **[wadl](https://github.com/codersforcauses/wadl)**
 - 🌱 I’m currently learning **NuxtJS, Firebase, Hugo**
