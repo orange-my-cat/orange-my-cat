@@ -7,7 +7,7 @@ If you know me, you would know that I love exploring new technologies and using 
 [//]: # "- 🔭 I’m currently working on **[wadl](https://github.com/codersforcauses/wadl)**"
 
 - 🌱 I’m currently learning **Hugo, PyVis**
-- 😄 I'm currently playing **[Bloons TD 6](https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0)**
+- 😄 I'm currently playing **[Brotato](https://store.steampowered.com/app/1942280/Brotato/)**
 - 💬 Ask me about **anything**
 
 ### Github Stats
