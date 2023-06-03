@@ -8,7 +8,7 @@ If you know me, you would know that I love exploring new technologies and using 
 
 - 🌱 I’m currently learning **Hugo, PyVis**
 - 😄 I'm currently playing **[Brotato](https://store.steampowered.com/app/1942280/Brotato/)**
-- 💬 Talk to me about **psychology** and **philosophy**
+- 💬 Talk to me about **philosophy** and **psychology**
 
 ### Github Stats
 
